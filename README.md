@@ -1,4 +1,5 @@
-Tool to create diff of images' versions (layer by layer) and inflate original image later.
+Tool to create diff of docker images' versions (layer by layer) as a tarball and inflate the original image later.
+
 **Note**. Works only for changes in top layers.
 
 # 3-step process
