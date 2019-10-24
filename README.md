@@ -1,3 +1,6 @@
+Tool to create diff of images' versions (layer by layer) and inflate original image later.
+**Note**. Works only for changes in top layers.
+
 # 3-step process
 
 #### 1. Prepare diff based on new image and hashes of old (existing) layers
