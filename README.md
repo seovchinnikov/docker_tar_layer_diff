@@ -2,6 +2,9 @@ Tool to create diff of docker images' versions (layer by layer) as a tarball and
 
 **Note**. Works only for changes in top layers.
 
+**Requirements**: python 2.6+/3.5+
+
+
 # 3-step process
 
 #### 0. docker inspect <old image> -> make json with old layers' hashes as a json file:
